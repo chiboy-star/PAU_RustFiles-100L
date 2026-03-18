@@ -8,4 +8,6 @@ fn main(){
 
     println!("My name is {}. I am the class rep of stream 1", "Dagogo William-Jumbo");
 
+    println!("What is even happing here")
+
 }
